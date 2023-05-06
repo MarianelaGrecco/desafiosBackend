@@ -1,3 +1,15 @@
+
 const socket = io()
 
-socket.emit("mensaje", "Hola buenos días")
+const formProduct = document.getElementById("formProducto") 
+
+formProduct.addEventListener('submit', (e) => {
+    e.preventDefault()
+    const prodsIteretor = new FormData(e.target)
+    const prod = Object.fromEntries(prodsIteretor)
+console.log (prod)
+socket.emit("nuevoProducto", {prod})
+})
+
+
+
