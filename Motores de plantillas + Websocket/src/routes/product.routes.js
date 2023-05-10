@@ -5,6 +5,22 @@ const productManager = new ProductManager("./productos.txt");
 
 const productRouter = Router();
 
+
+productRouter.post("/nuevoProducto", async (req, res) => {
+  const { title, description, price, thumbnail, status, code, stock } = req.body;
+  await productManager.addProduct({
+    title,
+    description,
+    price,
+    thumbnail,
+    status,
+    code,
+    stock,
+  });
+  res.redirect('/');
+});
+
+
 productRouter.get ("/realtimeproducts", async (req, res) => {
   try{
     const products = await productManager.getProducts()
@@ -22,6 +38,7 @@ productRouter.get ("/home", async (req, res) => {
     res.send(error)
   }
 })
+
 
 productRouter.get("/", async (req, res) => {
   const products = await productManager.getProducts();
