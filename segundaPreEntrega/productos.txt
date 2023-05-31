@@ -1,0 +1,1 @@
+[{"title":"Manzanas","description":"por kilo","price":330,"thumbnail":[],"status":true,"code":"M111","stock":96,"id":1},{"title":"Duraznos","description":"por kilo","price":210,"thumbnail":[],"status":true,"code":"D111","stock":46,"id":2},{"title":"Peras","description":"por kilo","price":450,"thumbnail":[],"status":true,"code":"DP111","stock":34,"id":3}]
