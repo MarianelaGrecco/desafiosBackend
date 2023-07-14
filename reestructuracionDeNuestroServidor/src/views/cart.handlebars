@@ -1,0 +1,17 @@
+<h1>Carrito de Compras</h1>
+
+{{#each cart.products}}
+  <div class="cart-product">
+    <h2>{{this.title}}</h2>
+    <p>Cantidad: {{this.quantity}}</p>
+
+    <form action="/carts/{{cartId}}/products/{{this.id}}" method="PUT">
+      <input type="number" name="quantity" value="{{this.quantity}}">
+      <button type="submit">Actualizar cantidad</button>
+    </form>
+
+    <form action="/carts/{{cartId}}/products/{{this.id}}" method="DELETE">
+      <button type="submit">Eliminar del carrito</button>
+    </form>
+  </div>
+{{/each}}
