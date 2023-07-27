@@ -24,6 +24,7 @@ import passport from "passport";
 import "./passportStrategies.js";
 import config from "./config/config.js";
 import './persistencia/mongoDB/dbConfig.js'
+import errorHandler from "./errorMiddlewere.js"
 
 //Configuraciones
 
@@ -110,6 +111,7 @@ app.use("/api/ticket", ticketRouter)
 app.use("/api/mockingproducts", mockingRouter)
 
 app.use(express.static(path.join(__dirname, "./public")));
+app.use(errorHandler)
 
 app.post("/upload", upload.single("product"), (req, res) => {
   console.log(req.body);
