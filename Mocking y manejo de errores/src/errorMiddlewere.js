@@ -1,30 +1,28 @@
-import ERROR_INFO from "./info.js";
-import CustomError from "./CustomError.js";
+import { error } from "console";
+import EErrors from "./services/errors/enum.js";
 
-const errorMiddleware = (err, req, res, next) => {
-  if (err instanceof CustomError) {
-    const errorCode = err.code;
-    switch (errorCode) {
-      case "PRODUCT_NOT_FOUND":
-        res.status(400).json({ error: ERROR_INFO[errorCode] });
-        break;
-      case "INSUFFICIENT_STOCK":
-        res.status(400).json({ error: ERROR_INFO[errorCode] });
-        break;
-      case "INVALID_QUANTITY":
-        res.status(400).json({ error: ERROR_INFO[errorCode] });
-        break;
-      case "CART_NOT_FOUND":
-        res.status(400).json({ error: ERROR_INFO[errorCode] });
-        break;
-      default:
-        res.status(500).json({ error: "Internal Server Error" });
-        break;
-    }
-  } else {
-    console.error(err); 
-    res.status(500).json({ error: "Internal Server Error" });
+export default (error, req, res, next) => {
+  console.log(error.cause);
+  switch (error.code) {
+    case EErrors.PRODUCT_NOT_FOUND:
+      res.send({ status: "error", error: error.name });
+      break;
+
+    case EErrors.INSUFFICIENT_STOCK:
+      res.send({ status: "error", error: error.name });
+      break;
+
+
+      case EErrors.INVALID_QUANTITY:
+        res.send({ status: "error", error: error.name });
+        break; 
+
+        case EErrors.CART_NOT_FOUND:
+            res.send({ status: "error", error: error.name });
+            break; 
+    default:
+      res.send({ status: "error", error: "Unhandeld error" });
   }
 };
 
-export default errorMiddleware;
+
