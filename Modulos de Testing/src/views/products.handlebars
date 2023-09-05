@@ -1,0 +1,17 @@
+
+<h1>Lista de Productos</h1>
+
+{{#each productList}}
+  <div class="product">
+    <h2>{{this.title}}</h2>
+    <p>Precio: {{this.price}}</p>
+    <p>Categoría: {{this.category}}</p>
+
+    <a href="/products/{{this.id}}">Ver detalles</a>
+
+    <form action="/carts/{{cartId}}/products/{{this.id}}" method="POST">
+      <input type="number" name="quantity" value="1">
+      <button type="submit">Agregar al carrito</button>
+    </form>
+  </div>
+{{/each}}
