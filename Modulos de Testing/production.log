@@ -1,0 +1,426 @@
+
+2023-08-30T20:35:51.523Z info: Logger instance:
+2023-08-30T20:35:51.681Z info: Server on port 4000
+2023-08-30T20:38:41.177Z info: Logger instance:
+2023-08-30T20:38:41.320Z info: Server on port 4000
+2023-08-30T20:39:17.350Z info: Logger instance:
+2023-08-30T20:39:17.455Z info: Server on port 4000
+2023-08-30T20:39:30.459Z info: Logger instance:
+2023-08-30T20:39:30.611Z info: Server on port 4000
+2023-08-30T20:55:02.592Z info: Logger instance:
+2023-08-30T20:55:02.772Z info: Server on port 4000
+2023-08-30T21:29:03.168Z info: Logger instance:
+2023-08-30T21:29:03.268Z info: Server on port 4000
+2023-08-30T21:30:08.364Z info: Logger instance:
+2023-08-30T21:30:08.481Z info: Server on port 4000
+2023-08-30T21:31:48.461Z info: Logger instance:
+2023-08-30T21:31:48.542Z info: Server on port 4000
+2023-08-30T21:32:25.213Z info: Logger instance:
+2023-08-30T21:32:25.312Z info: Server on port 4000
+2023-08-30T21:32:50.951Z info: Logger instance:
+2023-08-30T21:32:51.040Z info: Server on port 4000
+2023-08-30T21:37:17.763Z info: Logger instance:
+2023-08-30T21:37:17.858Z info: Server on port 4000
+2023-08-30T21:39:07.636Z info: Logger instance:
+2023-08-30T21:39:07.788Z info: Server on port 4000
+2023-08-30T21:42:52.960Z info: Logger instance:
+2023-08-30T21:42:53.078Z info: Server on port 4000
+2023-08-30T21:44:36.552Z info: Logger instance:
+2023-08-30T21:44:36.647Z info: Server on port 4000
+2023-08-30T21:46:14.523Z info: Logger instance:
+2023-08-30T21:46:14.634Z info: Server on port 4000
+2023-08-30T21:48:01.929Z info: Logger instance:
+2023-08-30T21:48:02.013Z info: Server on port 4000
+2023-08-30T21:51:42.081Z info: Logger instance:
+2023-08-30T21:51:42.184Z info: Server on port 4000
+2023-08-30T21:51:48.489Z info: Logger instance:
+2023-08-30T21:51:48.582Z info: Server on port 4000
+2023-08-30T21:51:55.768Z info: Logger instance:
+2023-08-30T21:51:55.910Z info: Server on port 4000
+2023-08-30T21:53:12.525Z info: Logger instance:
+2023-08-30T21:53:12.738Z info: Server on port 4000
+2023-08-30T21:53:26.223Z info: Logger instance:
+2023-08-30T21:53:26.359Z info: Server on port 4000
+2023-08-30T21:55:26.993Z info: Logger instance:
+2023-08-30T21:55:27.108Z info: Server on port 4000
+2023-08-30T22:36:12.927Z info: Logger instance:
+2023-08-30T22:36:13.024Z info: Server on port 4000
+2023-08-30T22:38:58.640Z info: Logger instance:
+2023-08-30T22:38:58.735Z info: Server on port 4000
+2023-08-31T23:02:49.205Z info: Logger instance:
+2023-08-31T23:02:49.296Z info: Server on port 4000
+2023-08-31T23:05:55.290Z info: Logger instance:
+2023-08-31T23:05:55.458Z info: Server on port 4000
+2023-08-31T23:18:17.240Z info: Logger instance:
+2023-08-31T23:18:17.329Z info: Server on port 4000
+2023-09-01T21:16:01.441Z info: Logger instance:
+2023-09-01T21:16:01.584Z info: Server on port 4000
+2023-09-03T21:31:52.217Z info: Logger instance:
+2023-09-03T21:31:52.509Z info: Server on port 4000
+2023-09-03T21:32:08.529Z info: Logger instance:
+2023-09-03T21:32:08.734Z info: Server on port 4000
+2023-09-03T21:50:35.165Z info: Logger instance:
+2023-09-03T21:50:35.336Z info: Server on port 4000
+2023-09-03T21:59:10.148Z info: Logger instance:
+2023-09-03T21:59:10.250Z info: Server on port 4000
+2023-09-03T22:02:15.064Z info: Logger instance:
+2023-09-03T22:02:15.153Z info: Server on port 4000
+2023-09-03T22:02:50.682Z info: Logger instance:
+2023-09-03T22:02:50.817Z info: Server on port 4000
+2023-09-03T22:03:12.677Z info: Logger instance:
+2023-09-03T22:03:12.782Z info: Server on port 4000
+2023-09-03T22:03:26.565Z info: Logger instance:
+2023-09-03T22:03:26.647Z info: Server on port 4000
+2023-09-03T22:04:50.474Z info: Logger instance:
+2023-09-03T22:04:50.553Z info: Server on port 4000
+2023-09-03T22:06:08.360Z info: Logger instance:
+2023-09-03T22:06:08.492Z info: Server on port 4000
+2023-09-03T22:13:14.454Z info: Logger instance:
+2023-09-03T22:13:14.538Z info: Server on port 4000
+2023-09-03T22:25:55.276Z info: Logger instance:
+2023-09-03T22:25:55.383Z info: Server on port 4000
+2023-09-03T22:27:00.108Z info: Logger instance:
+2023-09-03T22:27:00.239Z info: Server on port 4000
+2023-09-03T22:27:29.814Z info: Logger instance:
+2023-09-03T22:27:29.936Z info: Server on port 4000
+2023-09-03T22:33:13.926Z info: Logger instance:
+2023-09-03T22:33:14.026Z info: Server on port 4000
+2023-09-03T22:34:53.238Z info: Logger instance:
+2023-09-03T22:34:53.331Z info: Server on port 4000
+2023-09-03T22:49:51.642Z info: Logger instance:
+2023-09-03T22:49:51.738Z info: Server on port 4000
+2023-09-03T22:53:36.268Z info: Logger instance:
+2023-09-03T22:53:36.358Z info: Server on port 4000
+2023-09-03T23:06:06.444Z info: Logger instance:
+2023-09-03T23:06:06.534Z info: Server on port 4000
+2023-09-03T23:13:07.271Z info: Logger instance:
+2023-09-03T23:13:07.376Z info: Server on port 4000
+2023-09-03T23:23:26.915Z info: Logger instance:
+2023-09-03T23:23:27.000Z info: Server on port 4000
+2023-09-03T23:25:03.221Z info: Logger instance:
+2023-09-03T23:25:03.311Z info: Server on port 4000
+2023-09-03T23:34:04.152Z info: Logger instance:
+2023-09-03T23:34:04.289Z info: Server on port 4000
+2023-09-03T23:35:06.030Z info: Logger instance:
+2023-09-03T23:35:06.184Z info: Server on port 4000
+2023-09-03T23:36:16.478Z info: Logger instance:
+2023-09-03T23:36:16.565Z info: Server on port 4000
+2023-09-03T23:36:36.764Z info: Logger instance:
+2023-09-03T23:36:36.859Z info: Server on port 4000
+2023-09-04T21:45:11.397Z info: Logger instance:
+2023-09-04T21:45:11.480Z info: Server on port 4000
+2023-09-04T21:45:37.312Z info: Logger instance:
+2023-09-04T21:45:37.388Z info: Server on port 4000
+2023-09-04T21:54:53.587Z info: Logger instance:
+2023-09-04T21:54:53.670Z info: Server on port 4000
+2023-09-04T21:56:56.788Z info: Logger instance:
+2023-09-04T21:56:56.865Z info: Server on port 4000
+2023-09-04T21:58:03.478Z info: Logger instance:
+2023-09-04T21:58:03.592Z info: Server on port 4000
+2023-09-04T21:59:14.393Z info: Logger instance:
+2023-09-04T21:59:14.541Z info: Server on port 4000
+2023-09-04T22:27:21.808Z info: Logger instance:
+2023-09-04T22:27:21.908Z info: Server on port 4000
+2023-09-04T22:27:25.000Z error: Error creating product: products validation failed: title: Path `title` is required., description: Path `description` is required., category: Path `category` is required., price: Path `price` is required., stock: Path `stock` is required.
+2023-09-04T22:30:57.348Z error: Error creating product: products validation failed: title: Path `title` is required., description: Path `description` is required., category: Path `category` is required., price: Path `price` is required., stock: Path `stock` is required.
+2023-09-04T22:35:13.663Z info: Product created successfully
+2023-09-04T22:36:10.324Z info: Product created successfully
+2023-09-04T22:36:30.159Z info: Product created successfully
+2023-09-04T22:36:52.608Z info: Product created successfully
+2023-09-04T22:37:19.173Z info: Product created successfully
+2023-09-04T22:39:09.113Z info: Logger instance:
+2023-09-04T22:39:09.249Z info: Server on port 4000
+2023-09-04T22:39:50.791Z info: Logger instance:
+2023-09-04T22:39:50.888Z info: Server on port 4000
+2023-09-04T22:40:26.979Z info: Logger instance:
+2023-09-04T22:40:27.058Z info: Server on port 4000
+2023-09-04T22:43:16.926Z info: Product created successfully
+2023-09-04T22:43:29.490Z info: Product created successfully
+2023-09-04T22:43:42.651Z info: Product created successfully
+2023-09-04T22:43:55.065Z info: Product created successfully
+2023-09-04T22:44:06.750Z info: Product created successfully
+2023-09-04T22:45:33.420Z info: Logger instance:
+2023-09-04T22:45:33.519Z info: Server on port 4000
+2023-09-04T22:46:12.783Z info: Product created successfully
+2023-09-04T22:46:25.992Z info: Product created successfully
+2023-09-04T22:46:38.999Z info: Product created successfully
+2023-09-04T22:50:28.880Z info: Logger instance:
+2023-09-04T22:50:28.984Z info: Server on port 4000
+2023-09-04T22:51:26.982Z info: Logger instance:
+2023-09-04T22:51:27.064Z info: Server on port 4000
+2023-09-04T22:51:30.859Z info: Product created successfully
+2023-09-04T22:53:34.738Z info: Logger instance:
+2023-09-04T22:53:34.830Z info: Server on port 4000
+2023-09-04T22:53:38.055Z info: Product created successfully
+2023-09-04T22:53:38.102Z error: Error fetching product: logger.warn is not a function
+2023-09-04T22:57:05.241Z info: Logger instance:
+2023-09-04T22:57:05.335Z info: Server on port 4000
+2023-09-04T22:57:08.202Z info: Product created successfully
+2023-09-04T22:57:08.246Z error: Error fetching product: logger.warn is not a function
+2023-09-04T22:58:18.860Z info: Logger instance:
+2023-09-04T22:58:18.938Z info: Server on port 4000
+2023-09-04T22:58:23.051Z info: Product created successfully
+2023-09-04T22:58:23.096Z error: Error fetching product: logger.warn is not a function
+2023-09-04T23:02:04.073Z info: Logger instance:
+2023-09-04T23:02:04.221Z info: Server on port 4000
+2023-09-04T23:02:16.500Z info: Product created successfully
+2023-09-04T23:02:38.888Z info: Logger instance:
+2023-09-04T23:02:38.977Z info: Server on port 4000
+2023-09-04T23:02:41.958Z info: Product created successfully
+2023-09-04T23:04:41.720Z info: Logger instance:
+2023-09-04T23:04:41.827Z info: Server on port 4000
+2023-09-04T23:04:52.023Z info: Product created successfully
+2023-09-04T23:05:08.233Z info: Logger instance:
+2023-09-04T23:05:08.326Z info: Server on port 4000
+2023-09-04T23:05:11.299Z info: Product created successfully
+2023-09-04T23:05:45.544Z info: Product created successfully
+2023-09-04T23:07:16.200Z info: Logger instance:
+2023-09-04T23:07:16.315Z info: Server on port 4000
+2023-09-04T23:07:28.521Z info: Product created successfully
+2023-09-04T23:08:54.995Z info: Logger instance:
+2023-09-04T23:08:55.072Z info: Server on port 4000
+2023-09-04T23:08:59.571Z info: Product created successfully
+2023-09-04T23:08:59.616Z error: Error fetching product: logger.warn is not a function
+2023-09-04T23:11:55.245Z info: Logger instance:
+2023-09-04T23:11:55.341Z info: Server on port 4000
+2023-09-04T23:12:04.339Z info: Product created successfully
+2023-09-04T23:12:04.382Z error: Error fetching product: logger.warn is not a function
+2023-09-04T23:20:10.369Z error: Error fetching product: Cast to ObjectId failed for value ":pid" (type string) at path "_id" for model "products"
+2023-09-04T23:21:58.779Z info: Product found:
+2023-09-04T23:25:44.571Z info: Logger instance:
+2023-09-04T23:25:44.736Z info: Server on port 4000
+2023-09-04T23:25:47.119Z info: Product created successfully
+2023-09-04T23:25:47.166Z error: Error fetching product: logger.warn is not a function
+2023-09-04T23:28:13.357Z info: Logger instance:
+2023-09-04T23:28:13.469Z info: Server on port 4000
+2023-09-04T23:28:15.791Z info: Product created successfully
+2023-09-04T23:28:15.837Z error: Error fetching product: logger.warn is not a function
+2023-09-04T23:28:15.891Z info: Product updated successfully
+2023-09-04T23:34:43.510Z info: Logger instance:
+2023-09-04T23:34:43.590Z info: Server on port 4000
+2023-09-04T23:34:46.655Z info: Product created successfully
+2023-09-04T23:34:46.703Z info: Product updated successfully
+2023-09-04T23:35:51.522Z info: Logger instance:
+2023-09-04T23:35:51.646Z info: Server on port 4000
+2023-09-04T23:35:55.086Z info: Product created successfully
+2023-09-04T23:35:55.139Z info: Product updated successfully
+2023-09-04T23:35:55.182Z info: Product deleted successfully
+2023-09-05T00:37:18.433Z info: Logger instance:
+2023-09-05T00:37:18.637Z info: Server on port 4000
+2023-09-05T00:37:35.988Z info: Logger instance:
+2023-09-05T00:37:36.110Z info: Server on port 4000
+2023-09-05T00:41:12.766Z info: Product created successfully
+2023-09-05T00:41:12.815Z info: Product updated successfully
+2023-09-05T00:41:12.858Z info: Product deleted successfully
+2023-09-05T00:41:40.671Z info: Logger instance:
+2023-09-05T00:41:40.752Z info: Server on port 4000
+2023-09-05T00:41:43.588Z info: Product created successfully
+2023-09-05T00:41:43.635Z info: Product updated successfully
+2023-09-05T00:41:43.678Z info: Product deleted successfully
+2023-09-05T00:45:35.557Z info: Logger instance:
+2023-09-05T00:45:35.635Z info: Server on port 4000
+2023-09-05T00:45:51.661Z error: Error al obtener el carrito: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "cart"
+2023-09-05T00:45:51.864Z info: Product created successfully
+2023-09-05T00:45:51.913Z info: Product updated successfully
+2023-09-05T00:45:51.956Z info: Product deleted successfully
+2023-09-05T00:45:57.524Z info: Logger instance:
+2023-09-05T00:45:57.618Z info: Server on port 4000
+2023-09-05T00:46:00.283Z error: Error al obtener el carrito: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "cart"
+2023-09-05T00:46:00.489Z info: Product created successfully
+2023-09-05T00:46:00.540Z info: Product updated successfully
+2023-09-05T00:46:00.583Z info: Product deleted successfully
+2023-09-05T00:48:49.956Z info: Logger instance:
+2023-09-05T00:48:50.043Z info: Server on port 4000
+2023-09-05T00:48:50.896Z info: Creando nuevo carrito...
+2023-09-05T00:56:08.455Z info: Logger instance:
+2023-09-05T00:56:08.556Z info: Server on port 4000
+2023-09-05T00:58:06.463Z info: Logger instance:
+2023-09-05T00:58:06.553Z info: Server on port 4000
+2023-09-05T00:58:15.554Z info: Creando nuevo carrito...
+2023-09-05T00:58:54.667Z info: Creando nuevo carrito...
+2023-09-05T00:58:54.687Z error: Error al obtener el carrito: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "cart"
+2023-09-05T00:58:54.884Z info: Product created successfully
+2023-09-05T00:58:54.933Z info: Product updated successfully
+2023-09-05T00:58:54.977Z info: Product deleted successfully
+2023-09-05T01:00:22.571Z error: Error al obtener el carrito: Cast to ObjectId failed for value "1" (type string) at path "_id" for model "cart"
+2023-09-05T01:06:30.476Z info: Creando nuevo carrito...
+2023-09-05T01:06:43.026Z info: Creando nuevo carrito...
+2023-09-05T01:09:43.036Z info: Logger instance:
+2023-09-05T01:09:43.119Z info: Server on port 4000
+2023-09-05T01:09:47.853Z info: Creando nuevo carrito...
+2023-09-05T01:09:48.102Z info: Product created successfully
+2023-09-05T01:09:48.150Z info: Product updated successfully
+2023-09-05T01:09:48.191Z info: Product deleted successfully
+2023-09-05T01:10:09.065Z info: Creando nuevo carrito...
+2023-09-05T01:10:09.246Z info: Product created successfully
+2023-09-05T01:10:09.290Z info: Product updated successfully
+2023-09-05T01:10:09.333Z info: Product deleted successfully
+2023-09-05T01:10:16.756Z info: Logger instance:
+2023-09-05T01:10:16.872Z info: Server on port 4000
+2023-09-05T01:10:19.291Z info: Creando nuevo carrito...
+2023-09-05T01:10:19.517Z info: Product created successfully
+2023-09-05T01:10:19.565Z info: Product updated successfully
+2023-09-05T01:10:19.609Z info: Product deleted successfully
+2023-09-05T01:10:38.637Z info: Logger instance:
+2023-09-05T01:10:38.738Z info: Server on port 4000
+2023-09-05T01:10:41.089Z info: Creando nuevo carrito...
+2023-09-05T01:10:41.303Z info: Product created successfully
+2023-09-05T01:10:41.350Z info: Product updated successfully
+2023-09-05T01:10:41.393Z info: Product deleted successfully
+2023-09-05T01:59:15.963Z info: Creando nuevo carrito...
+2023-09-05T02:03:59.495Z info: Creando nuevo carrito...
+2023-09-05T14:34:50.073Z info: Logger instance:
+2023-09-05T14:34:50.194Z info: Server on port 4000
+2023-09-05T14:34:59.412Z info: Creando nuevo carrito...
+2023-09-05T14:42:44.642Z info: Logger instance:
+2023-09-05T14:42:44.735Z info: Server on port 4000
+2023-09-05T14:42:53.027Z info: Creando nuevo carrito...
+2023-09-05T14:45:23.820Z info: Logger instance:
+2023-09-05T14:45:23.941Z info: Server on port 4000
+2023-09-05T14:45:34.013Z info: Creando nuevo carrito...
+2023-09-05T14:45:34.262Z info: Product created successfully
+2023-09-05T14:45:34.311Z info: Product updated successfully
+2023-09-05T14:45:34.355Z info: Product deleted successfully
+2023-09-05T14:46:14.185Z info: Logger instance:
+2023-09-05T14:46:14.262Z info: Server on port 4000
+2023-09-05T14:46:17.467Z info: Creando nuevo carrito...
+2023-09-05T14:46:17.709Z info: Product created successfully
+2023-09-05T14:46:17.757Z info: Product updated successfully
+2023-09-05T14:46:17.801Z info: Product deleted successfully
+2023-09-05T14:46:49.419Z info: Logger instance:
+2023-09-05T14:46:49.494Z info: Server on port 4000
+2023-09-05T14:46:53.368Z info: Creando nuevo carrito...
+2023-09-05T14:46:53.610Z info: Product created successfully
+2023-09-05T14:46:53.659Z info: Product updated successfully
+2023-09-05T14:46:53.705Z info: Product deleted successfully
+2023-09-05T15:08:06.209Z info: Creando nuevo carrito...
+2023-09-05T15:08:12.489Z info: Creando nuevo carrito...
+2023-09-05T15:09:56.015Z error: Error al obtener el carrito: Cast to ObjectId failed for value ":cid" (type string) at path "_id" for model "cart"
+2023-09-05T15:10:12.650Z error: Error al obtener el carrito: Cast to ObjectId failed for value ":cid" (type string) at path "_id" for model "cart"
+2023-09-05T15:11:22.930Z error: Error al obtener el carrito: Cast to ObjectId failed for value ":cid" (type string) at path "_id" for model "cart"
+2023-09-05T15:13:12.194Z info: Logger instance:
+2023-09-05T15:13:12.286Z info: Server on port 4000
+2023-09-05T15:13:14.516Z info: Creando nuevo carrito...
+2023-09-05T15:13:14.751Z info: Product created successfully
+2023-09-05T15:13:14.801Z info: Product updated successfully
+2023-09-05T15:13:14.845Z info: Product deleted successfully
+2023-09-05T15:26:24.777Z info: Logger instance:
+2023-09-05T15:26:24.883Z info: Server on port 4000
+2023-09-05T15:26:27.172Z info: Creando nuevo carrito...
+2023-09-05T15:26:27.380Z info: Product created successfully
+2023-09-05T15:26:27.428Z info: Product updated successfully
+2023-09-05T15:26:27.470Z info: Product deleted successfully
+2023-09-05T15:27:01.810Z info: Logger instance:
+2023-09-05T15:27:01.922Z info: Server on port 4000
+2023-09-05T15:27:11.040Z info: Creando nuevo carrito...
+2023-09-05T15:27:11.251Z info: Product created successfully
+2023-09-05T15:27:11.300Z info: Product updated successfully
+2023-09-05T15:27:11.343Z info: Product deleted successfully
+2023-09-05T15:27:36.337Z info: Logger instance:
+2023-09-05T15:27:36.445Z info: Server on port 4000
+2023-09-05T15:27:38.709Z info: Creando nuevo carrito...
+2023-09-05T15:27:38.923Z info: Product created successfully
+2023-09-05T15:27:38.972Z info: Product updated successfully
+2023-09-05T15:27:39.015Z info: Product deleted successfully
+2023-09-05T15:30:12.898Z info: Logger instance:
+2023-09-05T15:30:12.975Z info: Server on port 4000
+2023-09-05T15:30:16.159Z info: Creando nuevo carrito...
+2023-09-05T15:30:16.377Z info: Product created successfully
+2023-09-05T15:30:16.425Z info: Product updated successfully
+2023-09-05T15:30:16.469Z info: Product deleted successfully
+2023-09-05T15:31:18.293Z info: Logger instance:
+2023-09-05T15:31:18.375Z info: Server on port 4000
+2023-09-05T15:31:23.275Z info: Creando nuevo carrito...
+2023-09-05T15:31:23.501Z info: Product created successfully
+2023-09-05T15:31:23.550Z info: Product updated successfully
+2023-09-05T15:31:23.594Z info: Product deleted successfully
+2023-09-05T15:31:43.135Z info: Logger instance:
+2023-09-05T15:31:43.214Z info: Server on port 4000
+2023-09-05T15:31:49.743Z info: Creando nuevo carrito...
+2023-09-05T15:31:49.980Z info: Product created successfully
+2023-09-05T15:31:50.039Z info: Product updated successfully
+2023-09-05T15:31:50.089Z info: Product deleted successfully
+2023-09-05T15:33:43.318Z info: Logger instance:
+2023-09-05T15:33:43.408Z info: Server on port 4000
+2023-09-05T15:33:49.191Z info: Creando nuevo carrito...
+2023-09-05T15:33:49.778Z info: Product created successfully
+2023-09-05T15:33:49.826Z info: Product updated successfully
+2023-09-05T15:33:49.868Z info: Product deleted successfully
+2023-09-05T15:34:09.793Z info: Product created successfully
+2023-09-05T15:34:09.839Z info: Product updated successfully
+2023-09-05T15:34:09.882Z info: Product deleted successfully
+2023-09-05T15:35:12.921Z info: Logger instance:
+2023-09-05T15:35:13.018Z info: Server on port 4000
+2023-09-05T15:35:15.502Z info: Creando nuevo carrito...
+2023-09-05T15:35:15.715Z info: Product created successfully
+2023-09-05T15:35:15.766Z info: Product updated successfully
+2023-09-05T15:35:15.811Z info: Product deleted successfully
+2023-09-05T15:36:43.884Z info: Logger instance:
+2023-09-05T15:36:44.073Z info: Server on port 4000
+2023-09-05T15:36:46.525Z info: Creando nuevo carrito...
+2023-09-05T15:36:46.743Z info: Product created successfully
+2023-09-05T15:36:46.792Z info: Product updated successfully
+2023-09-05T15:36:46.838Z info: Product deleted successfully
+2023-09-05T15:37:41.215Z info: Product created successfully
+2023-09-05T15:37:41.262Z info: Product updated successfully
+2023-09-05T15:37:41.304Z info: Product deleted successfully
+2023-09-05T15:38:07.103Z info: Creando nuevo carrito...
+2023-09-05T15:38:07.287Z info: Product created successfully
+2023-09-05T15:38:07.328Z info: Product updated successfully
+2023-09-05T15:38:07.376Z info: Product deleted successfully
+2023-09-05T15:38:19.182Z info: Logger instance:
+2023-09-05T15:38:19.267Z info: Server on port 4000
+2023-09-05T15:38:24.597Z info: Creando nuevo carrito...
+2023-09-05T15:38:24.809Z info: Product created successfully
+2023-09-05T15:38:24.861Z info: Product updated successfully
+2023-09-05T15:38:24.907Z info: Product deleted successfully
+2023-09-05T15:39:35.149Z info: Logger instance:
+2023-09-05T15:39:35.252Z info: Server on port 4000
+2023-09-05T15:39:52.506Z info: Logger instance:
+2023-09-05T15:39:52.614Z info: Server on port 4000
+2023-09-05T15:49:03.911Z info: Logger instance:
+2023-09-05T15:49:04.063Z info: Server on port 4000
+2023-09-05T15:50:12.634Z info: Logger instance:
+2023-09-05T15:50:12.738Z info: Server on port 4000
+2023-09-05T15:51:23.262Z info: Logger instance:
+2023-09-05T15:51:23.347Z info: Server on port 4000
+2023-09-05T15:51:26.471Z info: Creando nuevo carrito...
+2023-09-05T15:51:26.711Z info: Product created successfully
+2023-09-05T15:51:26.763Z info: Product updated successfully
+2023-09-05T15:51:26.807Z info: Product deleted successfully
+2023-09-05T15:51:26.864Z error: Error fetching all users: users is not defined
+2023-09-05T15:51:26.876Z error: Error fetching user: user is not defined
+2023-09-05T15:51:26.885Z error: Error creating user: newUser is not defined
+2023-09-05T15:51:26.893Z error: Error signing up user: newUser is not defined
+2023-09-05T15:53:30.722Z info: Logger instance:
+2023-09-05T15:53:30.802Z info: Server on port 4000
+2023-09-05T15:54:16.274Z info: Logger instance:
+2023-09-05T15:54:16.356Z info: Server on port 4000
+2023-09-05T15:56:08.002Z info: Logger instance:
+2023-09-05T15:56:08.100Z info: Server on port 4000
+2023-09-05T15:57:32.930Z info: Logger instance:
+2023-09-05T15:57:33.018Z info: Server on port 4000
+2023-09-05T15:57:43.881Z info: Creando nuevo carrito...
+2023-09-05T15:57:44.101Z info: Product created successfully
+2023-09-05T15:57:44.150Z info: Product updated successfully
+2023-09-05T15:57:44.193Z info: Product deleted successfully
+2023-09-05T15:57:44.249Z error: Error fetching all users: users is not defined
+2023-09-05T15:58:27.963Z info: Logger instance:
+2023-09-05T15:58:28.063Z info: Server on port 4000
+2023-09-05T15:58:31.728Z info: Creando nuevo carrito...
+2023-09-05T15:58:31.943Z info: Product created successfully
+2023-09-05T15:58:31.994Z info: Product updated successfully
+2023-09-05T15:58:32.036Z info: Product deleted successfully
+2023-09-05T15:58:32.091Z error: Error fetching user: user is not defined
+2023-09-05T15:59:06.080Z info: Logger instance:
+2023-09-05T15:59:06.171Z info: Server on port 4000
+2023-09-05T15:59:09.154Z info: Creando nuevo carrito...
+2023-09-05T15:59:09.370Z info: Product created successfully
+2023-09-05T15:59:09.420Z info: Product updated successfully
+2023-09-05T15:59:09.463Z info: Product deleted successfully
+2023-09-05T16:04:04.362Z info: Logger instance:
+2023-09-05T16:04:04.449Z info: Server on port 4000
+2023-09-05T16:04:19.590Z info: Logger instance:
+2023-09-05T16:04:19.767Z info: Server on port 4000
+2023-09-05T16:06:56.185Z info: Logger instance:
+2023-09-05T16:06:56.283Z info: Server on port 4000

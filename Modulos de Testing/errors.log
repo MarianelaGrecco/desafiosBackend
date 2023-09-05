@@ -1,0 +1,23 @@
+2023-09-04T22:27:25.000Z error: Error creating product: products validation failed: title: Path `title` is required., description: Path `description` is required., category: Path `category` is required., price: Path `price` is required., stock: Path `stock` is required.
+2023-09-04T22:30:57.348Z error: Error creating product: products validation failed: title: Path `title` is required., description: Path `description` is required., category: Path `category` is required., price: Path `price` is required., stock: Path `stock` is required.
+2023-09-04T22:53:38.102Z error: Error fetching product: logger.warn is not a function
+2023-09-04T22:57:08.246Z error: Error fetching product: logger.warn is not a function
+2023-09-04T22:58:23.096Z error: Error fetching product: logger.warn is not a function
+2023-09-04T23:08:59.616Z error: Error fetching product: logger.warn is not a function
+2023-09-04T23:12:04.382Z error: Error fetching product: logger.warn is not a function
+2023-09-04T23:20:10.369Z error: Error fetching product: Cast to ObjectId failed for value ":pid" (type string) at path "_id" for model "products"
+2023-09-04T23:25:47.166Z error: Error fetching product: logger.warn is not a function
+2023-09-04T23:28:15.837Z error: Error fetching product: logger.warn is not a function
+2023-09-05T00:45:51.661Z error: Error al obtener el carrito: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "cart"
+2023-09-05T00:46:00.283Z error: Error al obtener el carrito: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "cart"
+2023-09-05T00:58:54.687Z error: Error al obtener el carrito: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "cart"
+2023-09-05T01:00:22.571Z error: Error al obtener el carrito: Cast to ObjectId failed for value "1" (type string) at path "_id" for model "cart"
+2023-09-05T15:09:56.015Z error: Error al obtener el carrito: Cast to ObjectId failed for value ":cid" (type string) at path "_id" for model "cart"
+2023-09-05T15:10:12.650Z error: Error al obtener el carrito: Cast to ObjectId failed for value ":cid" (type string) at path "_id" for model "cart"
+2023-09-05T15:11:22.930Z error: Error al obtener el carrito: Cast to ObjectId failed for value ":cid" (type string) at path "_id" for model "cart"
+2023-09-05T15:51:26.864Z error: Error fetching all users: users is not defined
+2023-09-05T15:51:26.876Z error: Error fetching user: user is not defined
+2023-09-05T15:51:26.885Z error: Error creating user: newUser is not defined
+2023-09-05T15:51:26.893Z error: Error signing up user: newUser is not defined
+2023-09-05T15:57:44.249Z error: Error fetching all users: users is not defined
+2023-09-05T15:58:32.091Z error: Error fetching user: user is not defined
